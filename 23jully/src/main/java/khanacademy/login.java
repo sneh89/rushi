@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class login {
 	
 	// step1 to decleare the global variable
-	@FindBy (xpath="//a[@id='login-or-signup']")
+	@FindBy (xpath="//a[@id='login-or-signup']") // rushi 
      private WebElement loginlink;
 	
 	
