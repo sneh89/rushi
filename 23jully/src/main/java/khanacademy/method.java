@@ -15,7 +15,7 @@ public class method {
 	 }
       @BeforeMethod
        public void beforeMethod() {
-    	  System.out.println("before method");
+    	  System.out.println("before method"); //rushi snehal
       }
       @Test (priority=1)
       public void test1() {
