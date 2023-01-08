@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class logout {
 	
 	
-	@FindBy(xpath = "//span[@class='_wozql4 _13hnk7qk']")
+	@FindBy(xpath = "//span[@class='_wozql4 _13hnk7qk']")  // rushi snehal
 private WebElement profile;
 	
 	
